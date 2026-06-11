@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    {
+      "name": "NetMirror",
+      "version": "43",
+      "status": 1,
+      "url": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/builds/Netmirror.cs3",
+      "iconUrl": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/master/Netmirror/logo.jpeg"
+    }
+  ]
+}
