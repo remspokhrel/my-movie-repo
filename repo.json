@@ -1,0 +1,8 @@
+{
+  "name": "My Movie",
+  "description": "My Personal CloudStream Repo - NetMirror & MovieBox for OTT & Movies",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/remspokhrel/My-Movie/refs/heads/builds/plugins.json"
+  ]
+}
